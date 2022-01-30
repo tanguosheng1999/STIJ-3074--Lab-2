@@ -1,1 +1,1 @@
-# STIJ-3074--Durian
+# STIJ-3074--Lab-2
